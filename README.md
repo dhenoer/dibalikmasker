@@ -10,7 +10,7 @@ untuk mendeteksi suatu foto wajah mengenakan masker atau tidak. Jadi program ini
 hanya memanfaatkan model yang sudah terbentuk.
 
 Untuk menggunakan model ini, dibutuhkan library python tensorflow dan keras, yang
-didukung oleh CPU yang lebih modern karena libcudart. PC jadul (Dell Optiplex SX780) masih mampu mampu menggunakan classifier yang tersedia di OpenCV, tetapi mesin tidak mampu menghandle tensorflow/keras. Sehingga program ini diujicoba pada Notebook dengan prosesor i5 tanpa GPU.
+didukung oleh CPU yang lebih modern karena penggunaan libcudart. PC jadul yang saya pakai (Dell Optiplex SX780) masih mampu mampu menggunakan classifier yang tersedia di OpenCV, tetapi mesin tidak mampu menghandle tensorflow/keras. Sehingga program ini diujicoba pada Notebook dengan prosesor i5 tanpa GPU.
 
 Namun demikian saya akan tetap hunting untuk mendapatkan metode deteksi masker wajah yng lebih ringan hanya dengan OpenCV saja. 
 
