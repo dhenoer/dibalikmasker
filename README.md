@@ -18,7 +18,7 @@ Namun demikian saya akan tetap hunting untuk mendapatkan metode deteksi masker w
 
 Text to speech pada program ini mengunakan gTTS dan pyttsx3. gTTS menghasilkan  pronounsiasi yang lebih baik dari pyttsx3, tetapi harus dalam keadaan online saat melafalkan kalimat. Untuk menghemat penggunaan fitur gTTS, setiap pelafalan kalimat disimpan ke dalam cache dalam format mp3 agar pelafalan kalimat yang sama berikutnya tidak membutuhkan internet.
 
-Untuk pyttsx3, di Linux dibutuhkan speech-engine eSpeak, jadi pastikan anda sudah menginstall espeak. Sementara di Windows dibutuhkan SAPI. Saya kurang tau fitur speech-engine ini apakah tersedia di semua versi Windows yau tidak (karena saya bukan pemakai Windows) Tetapi saya dengar pengucapn SAPI jauh lebih baik daripada espeak.
+Bagi yang tidak dapat terhubung ke internet dapat menggunakan pyttsx3. Pada mesin Linux dibutuhkan speech-engine eSpeak, jadi pastikan anda sudah menginstall espeak. Sementara di Windows dibutuhkan SAPI. Saya kurang mengetahui fitur speech-engine ini apakah tersedia di semua versi Windows atau tidak? (karena saya bukan pemakai Windows) Namun saya dengar pengucapn SAPI jauh lebih baik daripada espeak.
 
 ## Threading
 
