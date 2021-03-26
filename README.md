@@ -1,4 +1,5 @@
-#Dibalik Masker
+# Dibalik Masker
+
 
 ## Deteksi Masker Wajah
 
@@ -23,6 +24,10 @@ Bagi yang tidak dapat terhubung ke internet dapat menggunakan pyttsx3. Pada mesi
 ## Threading
 
 Lag yang terjadi saat text-to-speeh sedang aktif begitu sangat terasa. Sehingga diperlukan threading agar keduanya berjalan seiringan / pararel. Mekanisme threading tentu dibutuhkan metode dan struktur yang tepat. Saya merasa threading yang saya lakukan masih belum sempurna, meski lag tidak muncul. Karena sering terjadi threading tsb tidak tertutup sempurna saat program utama selesai.
+
+## Video
+
+https://www.youtube.com/watch?v=obWbucRj0Hg
 
 ## Penutup
 
