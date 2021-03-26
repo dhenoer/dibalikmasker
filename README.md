@@ -1,5 +1,6 @@
 # Dibalik Masker
 
+![screenshot](http://github.com/dhenoer/dibalikmsker/blog/main/img/sshot1.png)
 
 ## Deteksi Masker Wajah
 
