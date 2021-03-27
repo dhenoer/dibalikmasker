@@ -7,6 +7,8 @@
 Program ini merupakan implementasi dari face mask detector berdasarkan artikel
 https://www.goeduhub.com/10520/face-mask-detection-using-python-tensorflow-keras-opencv
 
+Menurut artikel tsb model dibangun menggunakan dataset pada https://github.com/prajnasb/observations. Bagi yang tertarik melakukan pendalaman, silakan kunjungi github diatas.
+
 Anda dapat mempelajari lebih detil bagaimana metode tsb menghasilkan model
 untuk mendeteksi suatu foto wajah mengenakan masker atau tidak. Jadi program ini
 hanya memanfaatkan model yang sudah terbentuk.
