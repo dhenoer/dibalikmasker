@@ -30,6 +30,9 @@ Lag yang terjadi saat text-to-speeh sedang aktif begitu sangat terasa. Sehingga 
 
 ## Video
 
+
+[![Video di Yutube](https://img.youtube.com/vi/obWbucRj0Hg/0.jpg)](https://www.youtube.com/watch?v=obWbucRj0Hg)
+
 https://www.youtube.com/watch?v=obWbucRj0Hg
 
 ## Penutup
